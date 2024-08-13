@@ -23,9 +23,8 @@ export default function Hero() {
 						Find your game.
 					</h1>
 					<p className="my-7 leading-relaxed text-base md:text-lg">
-						Jump-start your gaming collection with titles from Steam,
-						PlayStation, Xbox, GOG and more. Enhance your profile and show off
-						your gaming interests!
+Embark on thrilling adventures with our collection of H5 games! Dive into action-packed battles, solve mind-bending puzzles, and explore fantastical worlds—all with the tap of a finger. Experience the future of mobile gaming, where every moment is a new challenge, and every game is a universe waiting to be discovered. Join now and let the excitement unfold!
+
 					</p>
 					<Link
 						href="games"
